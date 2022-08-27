@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "name": "Facebook",
+            "packageName": "com.teasoft.facebook",
+            "icon": "this should be bitmap",
+            "date": "28/08/22",
+            "usedTime": 5400000
+        },
+        {
+            "name": "Youtube",
+            "packageName": "com.teasoft.youtube",
+            "icon": "this should be bitmap",
+            "date": "28/08/22",
+            "usedTime": 10800000
+        },
+        {
+            "name": "Tiktok",
+            "packageName": "com.teasoft.tiktok",
+            "icon": "this should be bitmap",
+            "date": "{28/08/22",
+            "usedTime": 28800000
+        },
+        {
+            "name": "Internet Browser",
+            "packageName": "com.teasoft.browser",
+            "icon": "this should be bitmap",
+            "date": "28/08/22",
+            "usedTime": 1440000
+        },
+        {
+            "name": "Zalo",
+            "packageName": "com.teasoft.zalo",
+            "icon": "this should be bitmap",
+            "date": "28/08/22",
+            "usedTime": 108000
+        },
+        {
+            "name": "Viber",
+            "packageName": "com.teasoft.viber",
+            "icon": "this should be bitmap",
+            "date": "28/08/22",
+            "usedTime":4680000
+        }
+    ]
+}
